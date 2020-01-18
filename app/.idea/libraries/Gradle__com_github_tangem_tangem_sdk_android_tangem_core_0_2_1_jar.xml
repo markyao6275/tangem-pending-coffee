@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tangem.tangem-sdk-android:tangem-core:0.2.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tangem.tangem-sdk-android/tangem-core/0.2.1/c6ae8d3a28b06dcc2587ed77a6a50a4ef8a63a98/tangem-core-0.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tangem.tangem-sdk-android/tangem-core/0.2.1/518567023663e199268a371462c917c61c5f6106/tangem-core-0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

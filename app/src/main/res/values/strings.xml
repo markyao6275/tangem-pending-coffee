@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tangem Pending Coffee</string>
+    <string name="btn_read">Read Card</string>
+    <string name="btn_sign">Sign</string>
+    <string name="coffees_label">Coffees</string>
+    <string name="pending_coffees_label">Pending Coffees</string>
+    <string name="total_label">Total</string>
+
+</resources>

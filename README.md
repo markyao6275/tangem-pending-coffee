@@ -9,3 +9,5 @@ The intended use case is as follows:
 2.) Later on, the café can give the pending coffees away for free to those less fortunate who come in asking for a coffee. When they do so, they withdraw the cost of the pending coffee from the smart contract.
 
 3.) The original customer gets notified that someone availed of their pending coffee.
+
+Many thanks to https://github.com/blockdevsasia/tangem-workshop-solution for useful starter code in interfacing with the Tangem Android SDK.
